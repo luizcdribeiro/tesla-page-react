@@ -3,25 +3,39 @@ import styled from 'styled-components';
 export const Container = styled.div`
   height: 100vh;
   .colored:nth-child(1) {
-    background: #f1ffe7;
+    background-image: url('assets/hyundai-motor-group-MCKMptaw8xc-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(2) {
-    background: #dfffd9;
+    background-image: url('assets/sven-d-a4S6KUuLeoM-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(3) {
-    background: #cdfeca;
+    background-image: url('assets/hyundai-motor-group-MCKMptaw8xc-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(4) {
-    background: #bbfebb;
+    background-image: url('assets/sven-d-a4S6KUuLeoM-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(5) {
-    background: #a9fdac;
+    background-image: url('assets/hyundai-motor-group-MCKMptaw8xc-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(6) {
-    background: #90f29c;
+    background-image: url('assets/sven-d-a4S6KUuLeoM-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
   .colored:nth-child(7) {
-    background: #77e68c;
+    background-image: url('assets/hyundai-motor-group-MCKMptaw8xc-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
   }
 
 `;

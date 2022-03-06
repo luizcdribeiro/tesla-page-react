@@ -1,7 +1,7 @@
 import { ReactNode, useCallback, useRef, useState, useContext } from 'react';
 import ModelsContext, { CarModel } from '../ModelsContext';
-
-import { Container, OverlaysRoot,ModelOverlay } from './styles';
+import ModelOverlay from '../ModelOverlay'
+import { Container, OverlaysRoot } from './styles';
 
 interface ModelsWrapperProps {
   children: ReactNode;
